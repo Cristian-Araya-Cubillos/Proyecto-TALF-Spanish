@@ -1,0 +1,8 @@
+T__0=1
+T__1=2
+PALABRA=3
+NUMERO=4
+OPERADOR_LOGICO=5
+WS=6
+'('=1
+')'=2
